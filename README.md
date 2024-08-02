@@ -54,4 +54,5 @@ Built With
     FireAlpaca: Artwork and game assets
     AI: For enemy behavior and gameplay dynamics
 
-Feel free to explore the project and contribute to its development. For more details and to get started, check out the repository and documentation
+![c3](https://github.com/user-attachments/assets/8187af38-23b7-40b5-b223-0ac99d18cff1)
+
